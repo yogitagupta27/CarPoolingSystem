@@ -1,8 +1,8 @@
 # NOTE
 
 This repository contains a folder "BACKEND" which is the backend of the complete CarPooling System.
-Backend is Spring Boot.
-After cloning the repository remove save the "BACKEND" folder to any other path to run the Angular Application
+Server side is in Spring Boot- Java.
+After cloning the repository remove & save the "BACKEND" folder to any other path to run the Angular Application
 
 # Front
 
