@@ -1,3 +1,9 @@
+# NOTE
+
+This repository contains a folder "BACKEND" which is the backend of the complete CarPooling System.
+Backend is Spring Boot.
+After cloning the repository remove save the "BACKEND" folder to any other path to run the Angular Application
+
 # Front
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
